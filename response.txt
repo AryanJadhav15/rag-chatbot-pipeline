@@ -1,0 +1,7 @@
+Hi there! I'm here to help you with your questions about Python Object-Oriented Programming.
+
+You asked a great question today - "What are getters and setters?" This is actually covered in video 60 of our course, titled "Getters and Setters in Python". If you'd like to know more about how getters and setters work in Python, I can tell you that they're used to provide controlled access to an object's properties.
+
+Let me show you exactly where this topic comes up in the course. In video 60, we start discussing getters and setters at around 62 seconds into the recording. We explore what getters are and how they're different from other types of methods, and then we dive deeper into why setters are necessary and how to implement them.
+
+If you'd like to see the full explanation for yourself, I can guide you through video 60. Just let me know when you're ready to check it out!

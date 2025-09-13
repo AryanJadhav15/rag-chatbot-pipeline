@@ -1,0 +1,7 @@
+whisper/
+audios/
+videos/
+jsons/
+.DS_Store
+*.joblib
+__pycache__
