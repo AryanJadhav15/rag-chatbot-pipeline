@@ -1,7 +1,9 @@
-Hi there! I'm here to help you with your questions about Python Object-Oriented Programming.
+So, you're wondering about "dunder methods" - those special methods in Python that are used for various operations like length, equality, comparison, and more.
 
-You asked a great question today - "What are getters and setters?" This is actually covered in video 60 of our course, titled "Getters and Setters in Python". If you'd like to know more about how getters and setters work in Python, I can tell you that they're used to provide controlled access to an object's properties.
+From what I've seen in the video chunks, it seems that dunder methods were discussed in two videos: "Magic Dunder Methods in Python" (Video 73) and "Operator Overloading in Python" (Video 77).
 
-Let me show you exactly where this topic comes up in the course. In video 60, we start discussing getters and setters at around 62 seconds into the recording. We explore what getters are and how they're different from other types of methods, and then we dive deeper into why setters are necessary and how to implement them.
+In Video 73, "Magic Dunder Methods in Python", the instructor talks about various magic methods like `__len__`, which returns the length of an object. They're also discussed how these methods are used to make objects more intuitive to use.
 
-If you'd like to see the full explanation for yourself, I can guide you through video 60. Just let me know when you're ready to check it out!
+On the other hand, in Video 77, "Operator Overloading in Python", dunder methods are mentioned briefly as those that start with double underscores (like `_underscore_`).
+
+To learn more about dunder methods and see examples of how they're used, I'd recommend watching Video 73: "Magic Dunder Methods in Python".
